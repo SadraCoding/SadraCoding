@@ -45,8 +45,8 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img src="https://streak-stats.demolab.com?user=sadracoding&theme=transparent" alt="GitHub Streak" />
-   <img src="https://github-readme-stats.vercel.app/api?username=SadraCoding&show_icons=true&bg_color=00000000" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=sadracoding&theme=transparent"/>
+   <img src="https://github-readme-stats.vercel.app/api?username=SadraCoding&show_icons=true&bg_color=00000000"/>
 </div>
 
 <br/>
