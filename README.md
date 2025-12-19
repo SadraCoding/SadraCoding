@@ -1,19 +1,8 @@
-<!--
- ██████╗  █████╗ ███████╗██╗   ██╗ █████╗ ██╗     ██╗     
-██╔════╝ ██╔══██╗██╔════╝██║   ██║██╔══██╗██║     ██║     
-██║  ███╗███████║███████╗██║   ██║███████║██║     ██║     
-██║   ██║██╔══██║╚════██║╚██╗ ██╔╝██╔══██║██║     ██║     
-╚██████╔╝██║  ██║███████║ ╚████╔╝ ██║  ██║███████╗███████╗
- ╚═════╝ ╚═╝  ╚═╝╚══════╝  ╚═══╝  ╚═╝  ╚═╝╚══════╝╚══════╝
-Hi! I'm Sadra Milani — Fighting Cybercrime with Code & Conscience
--->
-
 <div align="center" style="font-family: 'Fira Code', monospace; color: #CCCCCC;">
   
-  <!-- Typing Header with Smoother Animation -->
   <br/>
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1200&color=00FF9C&center=true&vCenter=true&width=800&lines=Hi%2C+I%27m+Sadra+Milani;Security+Researcher+%26+Full-Stack+Developer;Cybercrime+Defender+%7C+Ethical+AI+Builder;Securing+Tech+for+the+Vulnerable" 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1200&color=00FF9C&center=true&vCenter=true&width=850&lines=Hi%2C+I%27m+Sadra+Milani;Security+Researcher+%26+Blockchain+Researcher;Full-Stack+Developer+%7C+Ethical+AI+Builder;Cybercrime+Defender+for+Vulnerable+Communities" 
     alt="Typing Intro" 
     style="filter: drop-shadow(0 0 8px rgba(0, 255, 156, 0.3)); transition: transform 0.3s ease;"
     onmouseover="this.style.transform='scale(1.02)'" 
@@ -21,7 +10,6 @@ Hi! I'm Sadra Milani — Fighting Cybercrime with Code & Conscience
   />
   <br/><br/>
 
-  <!-- Social Badges with Hover Glow -->
   <div style="margin: 20px 0; display: flex; flex-wrap: wrap; justify-content: center; gap: 12px;">
     <a href="https://sadramilani.ir" target="_blank" style="transition: filter 0.3s;">
       <img src="https://img.shields.io/badge/WEBSITE-sadramilani.ir-0D0D0D?style=for-the-badge&logo=firefox&logoColor=00FF9C&color=0D0D0D" 
@@ -43,19 +31,17 @@ Hi! I'm Sadra Milani — Fighting Cybercrime with Code & Conscience
 
   <br/>
 
-  <!-- About Section with Fade-In -->
   <h3 style="color:#00FF9C; font-weight:bold; margin:25px 0 15px; font-size:18px; text-transform:uppercase; letter-spacing:1.2px; text-shadow: 0 0 6px rgba(0,255,156,0.4);">
     🛡️ About
   </h3>
   <p style="max-width:800px; margin:0 auto 25px; line-height:1.7; font-size:15px; padding: 0 10px;">
-    I'm a <strong>Security Researcher</strong> and <strong>Full-Stack Developer</strong> building ethical, privacy-first technology for vulnerable communities. My work spans 
+    I'm a <strong>Security Researcher</strong>, <strong>Blockchain Researcher</strong>, and <strong>Full-Stack Developer</strong> building ethical, privacy-first technology for vulnerable communities. My work spans 
     <strong>deepfake detection</strong> using Vision Transformers, <strong>blockchain security</strong>, and <strong>hardware-based authentication</strong> with Zero-Knowledge Proofs. 
     I believe technology should empower—not exploit—and I develop open-source tools to make AI and cybersecurity more transparent, accessible, and human-centered.
   </p>
 
   <br/>
 
-  <!-- Tech Stack with Pulse Animation -->
   <h3 style="color:#00FF9C; font-weight:bold; margin:25px 0 15px; font-size:18px; text-transform:uppercase; letter-spacing:1.2px; text-shadow: 0 0 6px rgba(0,255,156,0.4);">
     ⚡ Core Stack
   </h3>
@@ -66,7 +52,6 @@ Hi! I'm Sadra Milani — Fighting Cybercrime with Code & Conscience
 
   <br/>
 
-  <!-- GitHub Stats with Smooth Reveal -->
   <h3 style="color:#00FF9C; font-weight:bold; margin:25px 0 15px; font-size:18px; text-transform:uppercase; letter-spacing:1.2px; text-shadow: 0 0 6px rgba(0,255,156,0.4);">
     📊 GitHub Stats
   </h3>
@@ -84,7 +69,6 @@ Hi! I'm Sadra Milani — Fighting Cybercrime with Code & Conscience
 
   <br/>
 
-  <!-- Activity Graph with Subtle Glow -->
   <h3 style="color:#00FF9C; font-weight:bold; margin:25px 0 15px; font-size:18px; text-transform:uppercase; letter-spacing:1.2px; text-shadow: 0 0 6px rgba(0,255,156,0.4);">
     📡 Coding Activity
   </h3>
@@ -93,12 +77,5 @@ Hi! I'm Sadra Milani — Fighting Cybercrime with Code & Conscience
     alt="Activity Graph" 
     style="border-radius:12px; max-width:100%; box-shadow: 0 0 16px rgba(0,255,156,0.2);"
   />
-
-  <br/><br/>
   
-  <!-- Footer Signature -->
-  <p style="font-size:13px; color:#555; margin-top:30px; letter-spacing:0.5px;">
-    <!-- ✦ Built with conscience • Secured by design • Open by default ✦ -->
-  </p>
-
 </div>
