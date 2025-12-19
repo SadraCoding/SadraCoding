@@ -81,13 +81,3 @@ Hi! I'm Sadra Milani — Fighting Cybercrime with Code & Conscience
   <h3 style="color:#00FF9C;font-family:'Courier New',monospace;font-weight:bold;margin:25px 0 15px;font-size:18px;text-transform:uppercase;letter-spacing:1px;">📡 Coding Activity</h3>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SadraCoding&bg_color=00000000&color=00FF9C&line=00FF9C&point=FFFFFF&area=true&area_color=00FF9C10&hide_border=true" style="border-radius:10px;max-width:100%;box-shadow:0 0 16px rgba(0,255,156,0.15);" />
 </div>
-
-<br/><br/>
-
-<div align="center">
-  <hr style="width:70%;border:none;border-top:1px solid rgba(0,255,156,0.25);margin:30px auto;" />
-  <p style="color:#00FF9C;font-family:'Courier New',monospace;font-size:15px;text-shadow:0 0 8px rgba(0,255,156,0.4);">
-    <span style="color:#555;">$</span> echo "Cybercrime defeated. System secured."
-  </p>
-  <br/>
-</div>
