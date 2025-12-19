@@ -1,52 +1,42 @@
+<!-- ===================== HERO SECTION ===================== -->
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sadra+Milani!;" />
+
+<img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=36&duration=3500&pause=800&color=00FF9C&center=true&vCenter=true&width=650&height=80&lines=Access+Granted+✔;Hi%2C+I'm+Sadra+Milani;Cybersecurity+%26+Full-Stack+Developer;Code.+Secure.+Exploit.+Build." />
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=header"/>
+
 </div>
 
-<br/>
+---
 
+<!-- ===================== PROFILE LINKS ===================== -->
 <div align="center">
- 
- </div>
- 
-<div align="center"> 
-  <a href="mailto:sadramilanimoghaddam@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-cyan?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-    
-  <a href="https://sadramilani.ir">
-    <img src="https://img.shields.io/badge/Website-Visit-blue?style=flat-square&logo=internet-explorer&logoColor=white" />
-  </a>
- 
+
+<a href="mailto:sadramilanimoghaddam@gmail.com">
+  <img src="https://img.shields.io/badge/Email-secure%40contact-00FF9C?style=for-the-badge&logo=gmail&logoColor=black"/>
+</a>
+
+<a href="https://sadramilani.ir">
+  <img src="https://img.shields.io/badge/Website-sadramilani.ir-00C2FF?style=for-the-badge&logo=firefox-browser&logoColor=black"/>
+</a>
+
+<a href="https://github.com/SadraCoding">
+  <img src="https://img.shields.io/badge/GitHub-SadraCoding-111111?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 </div>
 
- <hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-  <p align="center">
-    <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=javascript,html,css,cpp,c#,python,solidity"
-    /><br/>
-    <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=git,github,tailwindcss,shadcn,react,nextjs,expressjs,vite,bootstrap"
-    /><br/>
-    <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=prettier,kali,burpsuite,electron,tauri,npm,nginx,telegram,discordbots,linux,api"
-    />
-    
-  </p>
-</div>
+---
 
-<br/>
+<!-- ===================== ABOUT ME ===================== -->
+<h2 align="center">🛡️ About Me</h2>
 
-<hr/>
+```bash
+> whoami
+Sadra Milani
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img src="https://streak-stats.demolab.com?user=sadracoding&theme=transparent"/>
-   <img src="https://github-readme-stats.vercel.app/api?username=SadraCoding&show_icons=true&bg_color=00000000"/>
-</div>
+> role
+Cybersecurity Enthusiast | Full-Stack Developer | Ethical Hacker
 
-<br/>
+> focus
+Web Security • Pentesting • Blockchain • Secure App Development
