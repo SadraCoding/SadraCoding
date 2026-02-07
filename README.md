@@ -9,17 +9,20 @@
     onmouseout="this.style.transform='scale(1)'"
   />
   <br/><br/>
-
+<!--
   <div style="margin: 20px 0; display: flex; flex-wrap: wrap; justify-content: center; gap: 12px;">
     <a href="https://sadramilani.ir" target="_blank" style="transition: filter 0.3s;">
       <img src="https://img.shields.io/badge/WEBSITE-sadramilani.ir-0D0D0D?style=for-the-badge&logo=firefox&logoColor=00FF9C&color=0D0D0D" 
            alt="Website" style="border-radius: 8px; box-shadow: 0 0 10px rgba(0,255,156,0.2);" />
+
     </a>
     <a href="mailto:sadramilanimoghaddam@gmail.com" style="transition: filter 0.3s;">
       <img src="https://img.shields.io/badge/EMAIL-ENCRYPTED-0D0D0D?style=for-the-badge&logo=protonmail&logoColor=00FF9C&color=0D0D0D" 
            alt="Encrypted Email" style="border-radius: 8px; box-shadow: 0 0 10px rgba(0,255,156,0.2);" />
     </a>
-    <a href="https://github.com/SadraCoding" target="_blank" style="transition: filter 0.3s;">
+    <a 
+-->
+href="https://github.com/SadraCoding" target="_blank" style="transition: filter 0.3s;">
       <img src="https://img.shields.io/badge/GITHUB-@SadraCoding-0D0D0D?style=for-the-badge&logo=github&logoColor=00FF9C&color=0D0D0D" 
            alt="GitHub" style="border-radius: 8px; box-shadow: 0 0 10px rgba(0,255,156,0.2);" />
     </a>
